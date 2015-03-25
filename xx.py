@@ -1,2 +1,2 @@
-print 'modification'
-
+print 'modification depuis eclipse'
+print 'XXX'
