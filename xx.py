@@ -1,2 +1,1 @@
-print 'modification depuis eclipse'
-print 'XXXWWW'
+print 'Changement de mon submodule"
