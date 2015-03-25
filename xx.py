@@ -1,2 +1,2 @@
-print 'monsousmodule'
+print 'monsousmodule 2 XXXX'
 
