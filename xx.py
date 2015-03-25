@@ -1,2 +1,2 @@
 print 'modification depuis eclipse'
-print 'XXX'
+print 'XXXWWW'
